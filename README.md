@@ -20,4 +20,4 @@ Some of my basic python codes while trying to understand Bitcoin:
 [BIP39 Mnemonic Generator](https://github.com/Marcaday/BIP_39-Mnemonic_Generator)\
 [SeedXOR](https://github.com/Marcaday/SeedXOR)\
 [Keypair Generator](https://github.com/Marcaday/BTC_KeypairGenerator)\
-[Mnemonic Recovery Tool](https://github.com/Marcaday/MnemonicRecoveryTool)\
+[Mnemonic Recovery Tool](https://github.com/Marcaday/MnemonicRecoveryTool)
