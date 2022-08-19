@@ -11,7 +11,7 @@
 [ft_server](https://github.com/Marcaday/19_ft_server)\
 [cub3d](https://github.com/Marcaday/19_Cub3D)\
 [push_swap](https://github.com/Marcaday/push_swap)\
-[some subjects of the projects above](https://github.com/Marcaday/19_Subjects)\
+[some subjects of the projects above](https://github.com/Marcaday/19_Subjects)
 
 
 
