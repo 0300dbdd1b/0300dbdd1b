@@ -18,6 +18,6 @@
 Some of my basic python codes while trying to understand Bitcoin:
 
 [BIP39 Mnemonic Generator](https://github.com/0300dbdd1b/BIP_39-Mnemonic_Generator)\
-[SeedXOR](https://github.com/0300dbdd1b/SeedXOR)\
+[SeedXOR](https://gist.github.com/0300dbdd1b/568ef21fe605234b0ec00efb90759a33)\
 [Keypair Generator](https://github.com/0300dbdd1b/BTC_KeypairGenerator)\
 [Mnemonic Recovery Tool](https://github.com/0300dbdd1b/MnemonicRecoveryTool)
